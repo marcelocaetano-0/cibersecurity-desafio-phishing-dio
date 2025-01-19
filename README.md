@@ -12,12 +12,14 @@ Caso apresente erro na imagem disponibilizada diretamente do site da Kali Linux,
 ### Configurando o Phishing no Kali Linux
 
 - Acesso root: ``` sudo su ```
-- Iniciando o setoolkit: ``` setoolkit ```
-- Tipo de ataque: ``` Social-Engineering Attacks ```
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
+- Iniciando o setoolkit: ``` setoolkit ```
+- Agree to the terms: ``` y ```
+- Tipo de ataque: ``` (1) Social-Engineering Attacks ```
+- Vetor de ataque: ``` (2) Web Site Attack Vectors ```
+- Método de ataque: ```(3) Credential Harvester Attack Method ```
+- Método de ataque: ``` (2) Site Cloner ```
+- IP address for the POST: ``` Press Enter ```
 - URL para clone: http://www.instagram.com
 
 ### Resutados
